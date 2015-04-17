@@ -14,7 +14,7 @@ The PyCon proposal form contains several fields to describe your topic, approach
 
 A couple of words represent all of the work you put into a proposal; your slides, the rehearsals, and everything else about it. The title is your chance to attract people, and it's also one of the few ways to find your presentation after you give it.
 
-* Substance is often more valuable than flash. If your title doesn't elude to the topic you're talking about, you may need to spend more work in the description to hook people.
+* Substance is often more valuable than flash. If your title doesn't allude to the topic you're talking about, you may need to spend more work in the description to hook people.
 * Try to keep it short. A full sentence title is often harder to remember, thus harder to search for. 
 
 ### Duration
